@@ -1,0 +1,6 @@
+{
+  "name": "AI Customer-Feedback Intelligence Platform",
+  "description": "Transform customer feedback into actionable business intelligence using AI sentiment analysis, voice intelligence, multilingual translation, root cause discovery, churn prediction, RAG support copilot, and executive decision automation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
